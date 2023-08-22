@@ -1,6 +1,9 @@
 body {
     background-color: #ececec;
-    
+}
+
+nav {
+    margin-bottom: 1em;
 }
 
 footer{
@@ -8,4 +11,9 @@ footer{
     left: 0;
     bottom: 0;
     width: 100%;
+}
+
+.btn-primary {
+    background-color: #1dd1a1 !important;
+    border-color: #1dd1a1 !important;
 }

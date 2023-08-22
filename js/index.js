@@ -1,3 +1,3 @@
-var test = 1234;
+var test = 'Hello World';
 
 console.log(test);
